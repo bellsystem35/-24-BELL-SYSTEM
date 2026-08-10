@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://bellsystem35.github.io/-24-BELL-SYSTEM/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
+
+  <url>
+    <loc>https://bellsystem35.github.io/-24-BELL-SYSTEM/pigeon-control-sharjah/</loc>
+  </url>
+
 </urlset>
