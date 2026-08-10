@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bellsystem35.github.io/-24-BELL-SYSTEM/sitemap.xml
